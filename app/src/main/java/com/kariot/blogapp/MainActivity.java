@@ -84,14 +84,6 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
             Toast.makeText(this, "Inside Exception block", Toast.LENGTH_SHORT).show();
         }
-   
-    
-    /*
-    try{
-      //will do some task, if any error occured jumbps to catch block  
-    }catch (Exception e){
-        //In case of any error, this block will be excuted
-    }*/
 
     }
 }
